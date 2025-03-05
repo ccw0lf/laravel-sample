@@ -13,7 +13,7 @@
 
     <main>
         <p>This is a basic HTML page served by Laravel.</p>
-        <a href="{{ route('about') }}">About</a>
+        <a href="{{ route('books') }}">Books</a>
         <a href="{{ route('contact') }}">Contact</a>    
     </main>
     <footer>
